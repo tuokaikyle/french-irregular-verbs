@@ -1,0 +1,832 @@
+[
+  {
+    "infinitive": "Aller",
+    "english": "to go",
+    "chinese": "去",
+    "present_indicative": {
+      "je": "vais",
+      "tu": "vas",
+      "il": "va",
+      "nous": "allons",
+      "vous": "allez",
+      "ils": "vont"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Apprendre",
+    "english": "to learn",
+    "chinese": "学习",
+    "present_indicative": {
+      "je": "apprends",
+      "tu": "apprends",
+      "il": "apprend",
+      "nous": "apprenons",
+      "vous": "apprenez",
+      "ils": "apprennent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Asseoir",
+    "english": "to sit (down), to seat",
+    "chinese": "坐下",
+    "present_indicative": {
+      "je": "assieds",
+      "tu": "assieds",
+      "il": "assied",
+      "nous": "asseyons",
+      "vous": "asseyez",
+      "ils": "asseyent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Avoir",
+    "english": "to have",
+    "chinese": "有",
+    "present_indicative": {
+      "je": "ai",
+      "tu": "as",
+      "il": "a",
+      "nous": "avons",
+      "vous": "avez",
+      "ils": "ont"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Savoir",
+    "english": "to know",
+    "chinese": "知道",
+    "present_indicative": {
+      "je": "sais",
+      "tu": "sais",
+      "il": "sait",
+      "nous": "savons",
+      "vous": "savez",
+      "ils": "savent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Battre",
+    "english": "to beat",
+    "chinese": "打",
+    "present_indicative": {
+      "je": "bats",
+      "tu": "bats",
+      "il": "bat",
+      "nous": "battons",
+      "vous": "battez",
+      "ils": "battent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Boire",
+    "english": "to drink",
+    "chinese": "喝",
+    "present_indicative": {
+      "je": "bois",
+      "tu": "bois",
+      "il": "boit",
+      "nous": "buvons",
+      "vous": "buvez",
+      "ils": "boivent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Bouillir",
+    "english": "to boil",
+    "chinese": "煮沸",
+    "present_indicative": {
+      "je": "bous",
+      "tu": "bous",
+      "il": "bout",
+      "nous": "bouillons",
+      "vous": "bouillez",
+      "ils": "bouillent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Comprendre",
+    "english": "to understand",
+    "chinese": "理解",
+    "present_indicative": {
+      "je": "comprends",
+      "tu": "comprends",
+      "il": "comprend",
+      "nous": "comprenons",
+      "vous": "comprenez",
+      "ils": "comprennent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Conclure",
+    "english": "to conclude",
+    "chinese": "总结",
+    "present_indicative": {
+      "je": "conclus",
+      "tu": "conclus",
+      "il": "conclut",
+      "nous": "concluons",
+      "vous": "concluez",
+      "ils": "concluent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Conduire",
+    "english": "to drive, to lead",
+    "chinese": "驾驶",
+    "present_indicative": {
+      "je": "conduis",
+      "tu": "conduis",
+      "il": "conduit",
+      "nous": "conduisons",
+      "vous": "conduisez",
+      "ils": "conduisent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Connaître",
+    "english": "to know (a person or place)",
+    "chinese": "认识",
+    "present_indicative": {
+      "je": "connais",
+      "tu": "connais",
+      "il": "connaît",
+      "nous": "connaissons",
+      "vous": "connaissez",
+      "ils": "connaissent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Courir",
+    "english": "to run",
+    "chinese": "跑",
+    "present_indicative": {
+      "je": "cours",
+      "tu": "cours",
+      "il": "court",
+      "nous": "courons",
+      "vous": "courez",
+      "ils": "courent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Croire",
+    "english": "to believe",
+    "chinese": "相信",
+    "present_indicative": {
+      "je": "crois",
+      "tu": "crois",
+      "il": "croit",
+      "nous": "croyons",
+      "vous": "croyez",
+      "ils": "croient"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Croître",
+    "english": "to grow",
+    "chinese": "成长",
+    "present_indicative": {
+      "je": "croîs",
+      "tu": "croîs",
+      "il": "croît",
+      "nous": "croissons",
+      "vous": "croissez",
+      "ils": "croissent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Cueillir",
+    "english": "to pick, to gather",
+    "chinese": "采摘",
+    "present_indicative": {
+      "je": "cueille",
+      "tu": "cueilles",
+      "il": "cueille",
+      "nous": "cueillons",
+      "vous": "cueillez",
+      "ils": "cueillent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Devoir",
+    "english": "to have to, must",
+    "chinese": "必须",
+    "present_indicative": {
+      "je": "dois",
+      "tu": "dois",
+      "il": "doit",
+      "nous": "devons",
+      "vous": "devez",
+      "ils": "doivent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Dire",
+    "english": "to say",
+    "chinese": "说",
+    "present_indicative": {
+      "je": "dis",
+      "tu": "dis",
+      "il": "dit",
+      "nous": "disons",
+      "vous": "dites",
+      "ils": "disent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Dormir",
+    "english": "to sleep",
+    "chinese": "睡觉",
+    "present_indicative": {
+      "je": "dors",
+      "tu": "dors",
+      "il": "dort",
+      "nous": "dormons",
+      "vous": "dormez",
+      "ils": "dorment"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Écrire",
+    "english": "to write",
+    "chinese": "写",
+    "present_indicative": {
+      "je": "écris",
+      "tu": "écris",
+      "il": "écrit",
+      "nous": "écrivons",
+      "vous": "écrivez",
+      "ils": "écrivent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Sentir",
+    "english": "to feel, smell",
+    "chinese": "感觉",
+    "present_indicative": {
+      "je": "sens",
+      "tu": "sens",
+      "il": "sent",
+      "nous": "sentons",
+      "vous": "sentez",
+      "ils": "sentent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Envoyer",
+    "english": "to send",
+    "chinese": "发送",
+    "present_indicative": {
+      "je": "envoie",
+      "tu": "envoies",
+      "il": "envoie",
+      "nous": "envoyons",
+      "vous": "envoyez",
+      "ils": "envoient"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Servir",
+    "english": "to serve",
+    "chinese": "服务",
+    "present_indicative": {
+      "je": "sers",
+      "tu": "sers",
+      "il": "sert",
+      "nous": "servons",
+      "vous": "servez",
+      "ils": "servent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Être",
+    "english": "to be",
+    "chinese": "是",
+    "present_indicative": {
+      "je": "suis",
+      "tu": "es",
+      "il": "est",
+      "nous": "sommes",
+      "vous": "êtes",
+      "ils": "sont"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Faire",
+    "english": "to make, to do",
+    "chinese": "做",
+    "present_indicative": {
+      "je": "fais",
+      "tu": "fais",
+      "il": "fait",
+      "nous": "faisons",
+      "vous": "faites",
+      "ils": "font"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Falloir",
+    "english": "to be necessary",
+    "chinese": "需要",
+    "present_indicative": {
+      "il": "faut"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Fleurir",
+    "english": "to bloom, to flourish",
+    "chinese": "开花",
+    "present_indicative": {
+      "je": "fleuris",
+      "tu": "fleuris",
+      "il": "fleurit",
+      "nous": "fleurissons",
+      "vous": "fleurissez",
+      "ils": "fleurissent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Fuir",
+    "english": "to flee",
+    "chinese": "逃跑",
+    "present_indicative": {
+      "je": "fuis",
+      "tu": "fuis",
+      "il": "fuit",
+      "nous": "fuyons",
+      "vous": "fuyez",
+      "ils": "fuient"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Haïr",
+    "english": "to hate",
+    "chinese": "恨",
+    "present_indicative": {
+      "je": "hais",
+      "tu": "hais",
+      "il": "hait",
+      "nous": "haïssons",
+      "vous": "haïssez",
+      "ils": "haïssent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Joindre",
+    "english": "to join",
+    "chinese": "连接",
+    "present_indicative": {
+      "je": "joins",
+      "tu": "joins",
+      "il": "joint",
+      "nous": "joignons",
+      "vous": "joignez",
+      "ils": "joignent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Lire",
+    "english": "to read",
+    "chinese": "读",
+    "present_indicative": {
+      "je": "lis",
+      "tu": "lis",
+      "il": "lit",
+      "nous": "lisons",
+      "vous": "lisez",
+      "ils": "lisent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Maudire",
+    "english": "to curse",
+    "chinese": "诅咒",
+    "present_indicative": {
+      "je": "maudis",
+      "tu": "maudis",
+      "il": "maudit",
+      "nous": "maudissons",
+      "vous": "maudissez",
+      "ils": "maudissent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Mettre",
+    "english": "to put",
+    "chinese": "放",
+    "present_indicative": {
+      "je": "mets",
+      "tu": "mets",
+      "il": "met",
+      "nous": "mettons",
+      "vous": "mettez",
+      "ils": "mettent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Mourir",
+    "english": "to die",
+    "chinese": "死",
+    "present_indicative": {
+      "je": "meurs",
+      "tu": "meurs",
+      "il": "meurt",
+      "nous": "mourons",
+      "vous": "mourez",
+      "ils": "meurent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Naître",
+    "english": "to be born",
+    "chinese": "出生",
+    "present_indicative": {
+      "je": "nais",
+      "tu": "nais",
+      "il": "naît",
+      "nous": "naissons",
+      "vous": "naissez",
+      "ils": "naissent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Nuire (à)",
+    "english": "to harm",
+    "chinese": "损害",
+    "present_indicative": {
+      "je": "nuis",
+      "tu": "nuis",
+      "il": "nuit",
+      "nous": "nuisons",
+      "vous": "nuisez",
+      "ils": "nuisent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Offrir",
+    "english": "to offer, to give (as a gift)",
+    "chinese": "赠送",
+    "present_indicative": {
+      "je": "offre",
+      "tu": "offres",
+      "il": "offre",
+      "nous": "offrons",
+      "vous": "offrez",
+      "ils": "offrent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Sortir",
+    "english": "to go out",
+    "chinese": "出去",
+    "present_indicative": {
+      "je": "sors",
+      "tu": "sors",
+      "il": "sort",
+      "nous": "sortons",
+      "vous": "sortez",
+      "ils": "sortent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Ouvrir",
+    "english": "to open",
+    "chinese": "打开",
+    "present_indicative": {
+      "je": "ouvre",
+      "tu": "ouvres",
+      "il": "ouvre",
+      "nous": "ouvrons",
+      "vous": "ouvrez",
+      "ils": "ouvrent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Paraître",
+    "english": "to appear",
+    "chinese": "显得",
+    "present_indicative": {
+      "je": "parais",
+      "tu": "parais",
+      "il": "parait",
+      "nous": "paraissons",
+      "vous": "paraissez",
+      "ils": "paraissent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Partir",
+    "english": "to leave, to depart",
+    "chinese": "离开",
+    "present_indicative": {
+      "je": "pars",
+      "tu": "pars",
+      "il": "part",
+      "nous": "partons",
+      "vous": "partez",
+      "ils": "partent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Peindre",
+    "english": "to paint",
+    "chinese": "画",
+    "present_indicative": {
+      "je": "peins",
+      "tu": "peins",
+      "il": "peint",
+      "nous": "peignons",
+      "vous": "peignez",
+      "ils": "peignent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Plaire",
+    "english": "to please",
+    "chinese": "使喜欢",
+    "present_indicative": {
+      "je": "plais",
+      "tu": "plais",
+      "il": "plait",
+      "nous": "plaisons",
+      "vous": "plaisez",
+      "ils": "plaisent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Pleuvoir",
+    "english": "to rain",
+    "chinese": "下雨",
+    "present_indicative": {
+      "il": "pleut"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Pouvoir",
+    "english": "can, to be able to",
+    "chinese": "能",
+    "present_indicative": {
+      "je": "peux",
+      "tu": "peux",
+      "il": "peut",
+      "nous": "pouvons",
+      "vous": "pouvez",
+      "ils": "peuvent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Prendre",
+    "english": "to take",
+    "chinese": "拿",
+    "present_indicative": {
+      "je": "prends",
+      "tu": "prends",
+      "il": "prend",
+      "nous": "prenons",
+      "vous": "prenez",
+      "ils": "prennent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Prévoir",
+    "english": "to foresee",
+    "chinese": "预见",
+    "present_indicative": {
+      "je": "prévois",
+      "tu": "prévois",
+      "il": "prévoit",
+      "nous": "prévoyons",
+      "vous": "prévoyez",
+      "ils": "prévoient"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Promouvoir",
+    "english": "to promote",
+    "chinese": "推广",
+    "present_indicative": {
+      "je": "promeus",
+      "tu": "promeus",
+      "il": "promeut",
+      "nous": "promouvons",
+      "vous": "promouvez",
+      "ils": "promeuvent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Recevoir",
+    "english": "to receive",
+    "chinese": "收到",
+    "present_indicative": {
+      "je": "reçois",
+      "tu": "reçois",
+      "il": "reçoit",
+      "nous": "recevons",
+      "vous": "recevez",
+      "ils": "reçoivent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Réduire",
+    "english": "to reduce",
+    "chinese": "减少",
+    "present_indicative": {
+      "je": "réduis",
+      "tu": "réduis",
+      "il": "réduit",
+      "nous": "réduisons",
+      "vous": "réduisez",
+      "ils": "réduisent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Résoudre",
+    "english": "to resolve",
+    "chinese": "解决",
+    "present_indicative": {
+      "je": "résous",
+      "tu": "résous",
+      "il": "résout",
+      "nous": "résolvons",
+      "vous": "résolvez",
+      "ils": "résolvent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Rire (de)",
+    "english": "to laugh (at)",
+    "chinese": "笑",
+    "present_indicative": {
+      "je": "ris",
+      "tu": "ris",
+      "il": "rit",
+      "nous": "rions",
+      "vous": "riez",
+      "ils": "rient"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Tenir",
+    "english": "to hold",
+    "chinese": "拿着",
+    "present_indicative": {
+      "je": "tiens",
+      "tu": "tiens",
+      "il": "tient",
+      "nous": "tenons",
+      "vous": "tenez",
+      "ils": "tiennent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Suffire (à)",
+    "english": "to suffice",
+    "chinese": "足够",
+    "present_indicative": {
+      "je": "suffis",
+      "tu": "suffis",
+      "il": "suffit",
+      "nous": "suffisons",
+      "vous": "suffisez",
+      "ils": "suffisent"
+    },
+    "importance": "medium"
+  },
+  {
+    "infinitive": "Suivre",
+    "english": "to follow",
+    "chinese": "跟随",
+    "present_indicative": {
+      "je": "suis",
+      "tu": "suis",
+      "il": "suit",
+      "nous": "suivons",
+      "vous": "suivez",
+      "ils": "suivent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Valoir",
+    "english": "to be worth",
+    "chinese": "值得",
+    "present_indicative": {
+      "je": "vaux",
+      "tu": "vaux",
+      "il": "vaut",
+      "nous": "valons",
+      "vous": "valez",
+      "ils": "valent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Venir",
+    "english": "to come",
+    "chinese": "来",
+    "present_indicative": {
+      "je": "viens",
+      "tu": "viens",
+      "il": "vient",
+      "nous": "venons",
+      "vous": "venez",
+      "ils": "viennent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Vivre (de)",
+    "english": "to live (on or upon)",
+    "chinese": "生活",
+    "present_indicative": {
+      "je": "vis",
+      "tu": "vis",
+      "il": "vit",
+      "nous": "vivons",
+      "vous": "vivez",
+      "ils": "vivent"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Voir",
+    "english": "to see",
+    "chinese": "看见",
+    "present_indicative": {
+      "je": "vois",
+      "tu": "vois",
+      "il": "voit",
+      "nous": "voyons",
+      "vous": "voyez",
+      "ils": "voient"
+    },
+    "importance": "essential"
+  },
+  {
+    "infinitive": "Vouloir",
+    "english": "to want, to be willing",
+    "chinese": "想要",
+    "present_indicative": {
+      "je": "veux",
+      "tu": "veux",
+      "il": "veut",
+      "nous": "voulons",
+      "vous": "voulez",
+      "ils": "veulent"
+    },
+    "importance": "essential"
+  }
+]
